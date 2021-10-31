@@ -1,5 +1,5 @@
 # ObserverDesignPattern_EnemyAlert
-Observer Design Pattern implemented that represents an Enemy Alert System
+Observer Design Pattern implemented that represents an Enemy Alert System also used object pooling to respawn
 
 Technologies used:
 - Unity Engine
